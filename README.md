@@ -1,4 +1,7 @@
 # INORI
+
+w/ ChatGPT[https://chat.openai.com/chat]
+
 # INORI
 # INORI
 
