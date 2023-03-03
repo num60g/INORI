@@ -1,0 +1,11 @@
+# 光の塔を生成する
+light_tower = LightTower((0, 0), 10, 2, (1, 1, 1, 1))
+
+# バフを受けるターゲットのリスト
+targets = [(0, 0, 1, (0, 0, 0, 1)), (5, 5, 1, (0, 0, 0, 1))]
+
+# バフを適用する
+buffed_targets = light_tower.apply_buff(targets)
+
+# バフが適用されたターゲットのリストを表示する
+print(buffed_targets)
