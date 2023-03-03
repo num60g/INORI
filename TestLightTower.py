@@ -1,5 +1,4 @@
 import unittest
-from light_tower import LightTower
 
 class TestLightTower(unittest.TestCase):
     def test_apply_buff_no_targets(self):
