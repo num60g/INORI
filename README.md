@@ -15,7 +15,7 @@ w/ ChatGPT[https://chat.openai.com/chat]
 
 
 
-![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![numatay@gmail.com]
+numatay@gmail.com
 
 要素「いのり」は音の形をとるとされ、要素「光の塔」と合わせて使うと空間を「掌握」できる。ただし、このプログラムの使用者の入力による要素「魔力量」、同要素「魔術技量」など、プログラム実行時の条件による
 
@@ -28,8 +28,7 @@ w/ ChatGPT[https://chat.openai.com/chat]
 ただし、現実には魔法や魔術が存在しないため、このプログラムは完全に架空のものであり、現実に実行することはできません。あくまでも想像上のプログラムとしてお考えください。
 
 
-
-![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![numatay@gmail.com]
+numatay@gmail.com
 
 このプログラムが実際の日本語で言う「いのり」とは関係がないことを理解しています、
 
@@ -41,7 +40,7 @@ w/ ChatGPT[https://chat.openai.com/chat]
 
 
 
-![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![numatay@gmail.com]
+numatay@gmail.com
 
 魔法や魔力についても、概念的に名前を借りているに過ぎません
 
