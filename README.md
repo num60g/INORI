@@ -53,7 +53,7 @@ w/ ChatGPT[https://chat.openai.com/chat]
 
 
 
-![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![numatay@gmail.com]
+numatay@gmail.com
 
 音波形を生成するプログラムを書いてください。
 
